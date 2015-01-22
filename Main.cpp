@@ -7,7 +7,11 @@ using namespace std;
 int main()
 {
 
+<<<<<<< HEAD
 	int numer_cwiczen = 11;
+=======
+	int numer_cwiczen = 9;
+>>>>>>> parent of 98fbc80... Revert "Podstawy"
 
 
 	int zwrot = 0;
@@ -42,12 +46,15 @@ int main()
 	case 9:
 		zwrot = zadanie9();
 		break;
+<<<<<<< HEAD
 	case 10:
 		zwrot = zadanie10();
 		break;
 	case 11:
 		zwrot = zadanie11();
 		break;
+=======
+>>>>>>> parent of 98fbc80... Revert "Podstawy"
 	default:
 		cout << "\n\nBrak podanego pliku æwiczeniowego!" << endl;
 		break;

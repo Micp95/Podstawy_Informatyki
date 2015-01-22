@@ -11,7 +11,10 @@ int zadanie6();
 int zadanie7();
 int zadanie8();
 int zadanie9();
+<<<<<<< HEAD
 int zadanie10();
 int zadanie11();
+=======
+>>>>>>> parent of 98fbc80... Revert "Podstawy"
 
 #endif

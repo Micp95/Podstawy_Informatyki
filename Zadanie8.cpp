@@ -390,7 +390,11 @@ void zad8::BadajOkregi(Okrag okrag1, Okrag okrag2)
 		cout << "Okregi rozdzielne."<<endl;
 		return;
 	}
+<<<<<<< HEAD
 	else if (odleglosc == okrag1.r + okrag2.r)
+=======
+	else if (odleglosc = okrag1.r + okrag2.r)
+>>>>>>> parent of 98fbc80... Revert "Podstawy"
 	{
 		cout << "Okregi stycznie zewnetrznie." << endl;
 		return;
@@ -400,7 +404,11 @@ void zad8::BadajOkregi(Okrag okrag1, Okrag okrag2)
 		cout << "Okregi przecinaja sie." << endl;
 		return;
 	}
+<<<<<<< HEAD
 	else if (odleglosc == modul )
+=======
+	else if (odleglosc = modul )
+>>>>>>> parent of 98fbc80... Revert "Podstawy"
 	{
 		cout << "Okregi styczne wewnetrznie." << endl;
 		return;

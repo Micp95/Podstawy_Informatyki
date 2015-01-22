@@ -844,11 +844,14 @@ int zadanie7()
 	return 0;
 }
 
+<<<<<<< HEAD
 bool dsdtest()
 {
 	bool test = 1;
 	return 2;
 }
+=======
+>>>>>>> parent of 98fbc80... Revert "Podstawy"
 
 
 
